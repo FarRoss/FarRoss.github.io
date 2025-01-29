@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b Ph.D. Candidate</b> @ UofM -- Twin Cities
+subtitle: <b>Ph.D. Candidate</b> @ UofM -- Twin Cities
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
