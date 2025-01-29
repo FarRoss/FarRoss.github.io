@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-publications-in-conference-proceedings-and-workshops",
-          title: "publications in Conference Proceedings and Workshops",
+        },{id: "nav-publications",
+          title: "publications",
           description: "Publications in Conference Proceedings and Workshops",
           section: "Navigation",
           handler: () => {
