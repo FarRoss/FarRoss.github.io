@@ -7,3 +7,7 @@
 
 "Vision":
   color: "#009f36"
+
+"IMC":
+  url: https://conferences.sigcomm.org/imc/2020/
+  color: "#FFA500"
