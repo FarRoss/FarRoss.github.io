@@ -32,3 +32,11 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Narayanan":
+  - firstname: ["Arvind"]
+    url: https://arvindn.com
+
+"Ramadan":
+  - firstname: ["Eman"]
+    url: https://www-users.cse.umn.edu/~eman/
